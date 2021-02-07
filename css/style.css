@@ -257,7 +257,7 @@ html{
         margin-bottom: 1rem;
     }
     .carousel .carousel-caption{
-        top: 20%;
+        top: 5%;
         left: -20%;
     }
     .carousel-caption .intro button{
