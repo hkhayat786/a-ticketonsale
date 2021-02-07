@@ -248,20 +248,20 @@ html{
         margin-top: 2rem;
     }
   }
-  @media only screen and (max-width:768px){
+  @media only screen and (max-width:500px){
     .carousel-caption .intro h1{
-        font-size: 1.1rem;
+        font-size: 0.7rem;
     }
     .carousel-caption .intro h3{
-        font-size: 0.9rem;
-        margin-bottom: 1rem;
+        font-size: 0.5rem;
+        margin-bottom: 0.5rem;
     }
     .carousel .carousel-caption{
-        top: 5%;
-        left: -10%;
+        top: 0;
+        left: -20%;
     }
     .carousel-caption .intro button{
-        width: 90px;
+        width: 80px;
         height: 30px;
         font-size: 0.6rem;
     }
